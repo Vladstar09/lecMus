@@ -1,0 +1,6 @@
+{
+  "name": "LecMus - Lectura Musical y Solfeo",
+  "description": "Micro aplicación web educativa para el aprendizaje progresivo de lectura musical en clave de sol y solfeo rítmico, desde nivel cero.",
+  "requestFramePermissions": ["microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

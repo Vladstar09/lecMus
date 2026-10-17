@@ -1,0 +1,232 @@
+{
+  "appName": "LecMus",
+  "version": "1.0.0",
+  "description": "Plan curricular de 12 capítulos × 10 lecciones progresivas para la lectura musical en clave de sol y solfeo rítmico.",
+  "palette": {
+    "primaryRed": "#E63946",
+    "deepBlue": "#1D3557",
+    "darkNavy": "#0A192F",
+    "lightCanvas": "#F8FAFC"
+  },
+  "totalChapters": 12,
+  "lessonsPerChapter": 10,
+  "totalLessons": 120,
+  "chapters": [
+    {
+      "id": 1,
+      "title": "Fundamentos del pentagrama y la clave de sol",
+      "subtitle": "Líneas, espacios, ubicación de la clave",
+      "lessonsCount": 10,
+      "topics": [
+        "1.1 ¿Qué es el pentagrama? (5 líneas y 4 espacios)",
+        "1.2 La clave de Sol en 2ª línea",
+        "1.3 Altura musical: graves y agudos",
+        "1.4 Numeración ascendente de las líneas",
+        "1.5 Numeración ascendente de los espacios",
+        "1.6 Distinción visual entre notas de línea y notas de espacio",
+        "1.7 El punto de referencia: Sol4",
+        "1.8 Movimiento ascendente por grados conjuntos",
+        "1.9 Movimiento descendente por grados conjuntos",
+        "1.10 Evaluación diagnóstica de fundamentos"
+      ]
+    },
+    {
+      "id": 2,
+      "title": "Notas en las líneas del pentagrama",
+      "subtitle": "Mi, Sol, Si, Re, Fa",
+      "lessonsCount": 10,
+      "topics": [
+        "2.1 Mi y Sol (1ª y 2ª línea)",
+        "2.2 Si (3ª línea, la línea central)",
+        "2.3 Re y Fa (4ª y 5ª línea)",
+        "2.4 La tríada Mi - Sol - Si",
+        "2.5 Las líneas superiores Si - Re - Fa",
+        "2.6 La mnemotecnia: Mi Sol Siempre Reluce Fuerte",
+        "2.7 Salto de tercera entre líneas",
+        "2.8 Lectura rápida de líneas alternas",
+        "2.9 Reconocimiento auditivo de las 5 líneas",
+        "2.10 Gran test de maestría en líneas"
+      ]
+    },
+    {
+      "id": 3,
+      "title": "Notas en los espacios",
+      "subtitle": "Fa, La, Do, Mi",
+      "lessonsCount": 10,
+      "topics": [
+        "3.1 Fa y La (1º y 2º espacio)",
+        "3.2 Do y Mi (3º y 4º espacio)",
+        "3.3 Mnemotecnia FACE / Fa-La-Do-Mi",
+        "3.4 Comparación Mi de 1ª línea vs Mi de 4º espacio",
+        "3.5 Comparación Fa de 1º espacio vs Fa de 5ª línea",
+        "3.6 Salto de tercera entre espacios",
+        "3.7 Acorde de séptima en los 4 espacios",
+        "3.8 Lectura a contrarreloj de espacios",
+        "3.9 Discriminación tímbrica de espacios",
+        "3.10 Gran test de espacios"
+      ]
+    },
+    {
+      "id": 4,
+      "title": "Lectura combinada líneas + espacios",
+      "subtitle": "Do4 central a Do5",
+      "lessonsCount": 10,
+      "topics": [
+        "4.1 Do4 a Mi4 (grados 1 a 3)",
+        "4.2 Fa4 a La4 (grados 4 a 6)",
+        "4.3 Si4 a Do5 (grados 7 y 8)",
+        "4.4 Escala completa ascendente",
+        "4.5 Escala completa descendente",
+        "4.6 Saltos de 2ª y 3ª combinados",
+        "4.7 Arpegio mayor Do-Mi-Sol-Do",
+        "4.8 Melodías sencillas paso a paso",
+        "4.9 Lectura a primera vista nivel inicial",
+        "4.10 Evaluación de la octava central"
+      ]
+    },
+    {
+      "id": 5,
+      "title": "Notas fuera del pentagrama",
+      "subtitle": "Líneas adicionales superiores e inferiores",
+      "lessonsCount": 10,
+      "topics": [
+        "5.1 Do central (1ª línea adicional inferior)",
+        "5.2 Re4 bajo la primera línea",
+        "5.3 Si3 y La3 bajo el pentagrama",
+        "5.4 Sol5 sobre la quinta línea",
+        "5.5 La5 (1ª línea adicional superior)",
+        "5.6 Si5 y Do6 agudo",
+        "5.7 Conexión entre registros grave y agudo",
+        "5.8 Lectura con saltos fuera de la pauta",
+        "5.9 Reconocimiento de alturas extremas",
+        "5.10 Reto de líneas adicionales"
+      ]
+    },
+    {
+      "id": 6,
+      "title": "Figuras rítmicas básicas",
+      "subtitle": "Redonda, blanca, negra, corchea",
+      "lessonsCount": 10,
+      "topics": [
+        "6.1 El pulso musical y el metrónomo",
+        "6.2 La Redonda (4 tiempos)",
+        "6.3 La Blanca (2 tiempos)",
+        "6.4 La Negra (1 tiempo - pulso base)",
+        "6.5 La Corchea y su pareja (1/2 tiempo cada una)",
+        "6.6 El árbol de equivalencias rítmicas",
+        "6.7 Tapping rítmico con metrónomo",
+        "6.8 Combinación Redonda + Blancas",
+        "6.9 Combinación Negras + Corcheas",
+        "6.10 Dictado rítmico básico"
+      ]
+    },
+    {
+      "id": 7,
+      "title": "Silencios y su valor",
+      "subtitle": "Silencios de redonda, blanca, negra y corchea",
+      "lessonsCount": 10,
+      "topics": [
+        "7.1 El valor del silencio en la música",
+        "7.2 Silencio de Negra (1 tiempo)",
+        "7.3 Silencio de Blanca (2 tiempos sobre 3ª línea)",
+        "7.4 Silencio de Redonda (4 tiempos bajo 4ª línea)",
+        "7.5 Silencio de Corchea (1/2 tiempo)",
+        "7.6 Diferenciación sombrero arriba vs sombrero abajo",
+        "7.7 Alternancia sonido - pausa",
+        "7.8 Compases con silencios intercalados",
+        "7.9 Tapping rítmico con respeto de silencios",
+        "7.10 Evaluación de silencios"
+      ]
+    },
+    {
+      "id": 8,
+      "title": "Compases simples",
+      "subtitle": "2/4, 3/4, 4/4",
+      "lessonsCount": 10,
+      "topics": [
+        "8.1 La línea divisoria y la casilla de compás",
+        "8.2 Compás de 2/4 (ritmo binario de marcha)",
+        "8.3 Compás de 3/4 (ritmo ternario de vals)",
+        "8.4 Compás de 4/4 y el signo de compasillo C",
+        "8.5 El pulso fuerte (acento métrico)",
+        "8.6 Rellenar compases incompletos",
+        "8.7 Detección de errores métricos",
+        "8.8 Doble barra final y signos de separación",
+        "8.9 Conducción rítmica acompasada",
+        "8.10 Gran prueba de métrica"
+      ]
+    },
+    {
+      "id": 9,
+      "title": "Puntillos, ligaduras y alteraciones",
+      "subtitle": "Sostenido, bemol, becuadro y prolongaciones",
+      "lessonsCount": 10,
+      "topics": [
+        "9.1 El Puntillo: suma del 50%",
+        "9.2 Blanca con puntillo (3 tiempos en 3/4 y 4/4)",
+        "9.3 Negra con puntillo + corchea",
+        "9.4 La Ligadura de prolongación",
+        "9.5 El Sostenido (♯): eleva un semitono",
+        "9.6 El Bemol (♭): desciende un semitono",
+        "9.7 El Becuadro (♮): cancela alteraciones",
+        "9.8 Alteraciones accidentales vs de armadura",
+        "9.9 Lectura cromática elemental",
+        "9.10 Evaluación de expresión y alteraciones"
+      ]
+    },
+    {
+      "id": 10,
+      "title": "Intervalos y lectura melódica",
+      "subtitle": "Segundas, terceras, cuartas, quintas y octavas",
+      "lessonsCount": 10,
+      "topics": [
+        "10.1 Concepto de intervalo y distancia sonora",
+        "10.2 Intervalo de Segunda (paso contiguo)",
+        "10.3 Intervalo de Tercera (salto de línea a línea)",
+        "10.4 Intervalo de Cuarta",
+        "10.5 Intervalo de Quinta justa",
+        "10.6 Intervalo de Octava (consonancia perfecta)",
+        "10.7 Reconocimiento visual de la forma del salto",
+        "10.8 Lectura en zigzag y arpegios",
+        "10.9 Entrenamiento auditivo interválico",
+        "10.10 Test de intervalos"
+      ]
+    },
+    {
+      "id": 11,
+      "title": "Solfeo rítmico hablado",
+      "subtitle": "Lectura con sílabas rítmicas pedagógicas",
+      "lessonsCount": 10,
+      "topics": [
+        "11.1 El sistema de sílabas rítmicas",
+        "11.2 Ta para negras",
+        "11.3 Ti-Ti para corcheas",
+        "11.4 Ta-a para blancas",
+        "11.5 Ta-a-a-a para redondas",
+        "11.6 Tiri-Tiri para semicorcheas",
+        "11.7 La síncopa hablada (Ti-Ta-Ti)",
+        "11.8 El contratiempo hablado (Silencio - Ta)",
+        "11.9 Polirritmia a dos manos y voz",
+        "11.10 Examen de solfeo rítmico hablado"
+      ]
+    },
+    {
+      "id": 12,
+      "title": "Solfeo rítmico-melódico avanzado",
+      "subtitle": "Interpretación musical completa",
+      "lessonsCount": 10,
+      "topics": [
+        "12.1 Integración de altura y tiempo",
+        "12.2 Melodía clásica 1: Oda a la Alegría (Beethoven)",
+        "12.3 Melodía clásica 2: Estrellita / Campanita",
+        "12.4 Melodía clásica 3: Frère Jacques (Canon)",
+        "12.5 Fraseo musical y respiración",
+        "12.6 Matices de dinámica (piano, forte, crescendo)",
+        "12.7 Tempo variable y acelerando/ritardando",
+        "12.8 Lectura a vista de partitura completa",
+        "12.9 Solfeo cantado entonado",
+        "12.10 Graduación LecMus: Solfeo Maestro"
+      ]
+    }
+  ]
+}
